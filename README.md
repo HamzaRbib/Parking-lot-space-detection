@@ -71,7 +71,3 @@ We developed and compared two different methods for detecting free and occupied 
 ## 📌 Conclusion
 
 While YOLOv8 provides a robust object detection pipeline suitable for real-time applications, our CNN-based approach demonstrated superior classification performance for small-scale parking analysis. A hybrid approach could combine the strengths of both models in future iterations.
-
----
-
-Would you like me to generate a Markdown file version of this so you can directly use or download it?
